@@ -1,6 +1,6 @@
 # detection-of-model-inversion-attack
 
-The <L2-norm> fold contains graphs of l2-norm value for number 0-9 with their first 300 iterations.
+The <L2_norm> fold contains graphs of l2-norm value for number 0-9 with their first 300 iterations.
   
 The <cosine_similarity> fold contains graphs of cosine similarity value for number 0-9 with their first 300 iterations.
 
